@@ -1,0 +1,12 @@
+{
+    "Authority": ["سلطة"],
+    "Date of Issue": ["تاريخ المسألة"],
+    "Place of Issue": ["مكان الإصدار"],
+    "Validity": ["صلاحية"],
+    "Full Name": ["الاسم الكامل"],
+    "Nationality": ["جنسية"],
+    "Place of Birth": ["مكان الميلاد"],
+    "Date of Birth": ["تاريخ الميلاد"],
+    "Passport Number": ["رقم جواز السفر"],
+    "Profession": ["مهنة"]
+}
