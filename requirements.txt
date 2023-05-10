@@ -17,6 +17,7 @@ cycler==0.11.0
 decorator==5.1.1
 et-xmlfile==1.1.0
 Flask==1.1.2
+flask_cors
 Flask-RESTful==0.3.8
 Flask-SQLAlchemy==2.4.3
 fonttools==4.33.3
